@@ -15,8 +15,8 @@ A showcase of Phi Agent capabilities featuring a Streamlit-powered Research and 
 - 🔄 Real-time responses
 - 🎯 Easy-to-use Streamlit interface
 
-## Demo
-![Demo GIF](placeholder_for_demo.gif)
+## Screenshot
+![Phi Agent Showcase](https://raw.githubusercontent.com/lesteroliver911/phi-agent-showcase/refs/heads/main/phi-agent-screenshot.png)
 
 ## Prerequisites
 - Python 3.8+
